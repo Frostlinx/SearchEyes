@@ -7,18 +7,7 @@
 <h3 align="center">Towards Frontier Multimodal Deep Search Intelligence<br/>via Search World Simulation</h3>
 
 <p align="center">
-  Zhengbo Jiao<sup>1</sup>, Yiming Cheng<sup>2</sup>, Yilei Jiang<sup>1</sup>, Kaituo Feng<sup>1</sup>, Rui Huang<sup>3</sup>, Tianyi Jiang<sup>4</sup>,<br/>
-  Juanxi Tian<sup>5</sup>, Qunzhong Wang<sup>1</sup>, Tailai Chen<sup>6</sup>, Qianshan Wei<sup>6</sup>, Chuan Xiao<sup>8</sup>,<br/>
-  Shanyu Rong<sup>4</sup>, Yangfu Li<sup>7</sup>, Yanhan Zhou<sup>2</sup>, Yifan Zhang<sup>6</sup>, Xiangyu Yue<sup>1,†</sup>
-</p>
-
-<p align="center">
-  <sup>1</sup>MMLab, CUHK &nbsp; <sup>2</sup>THU &nbsp; <sup>3</sup>HKU &nbsp; <sup>4</sup>PKU &nbsp; <sup>5</sup>NTU &nbsp; <sup>6</sup>CASIA &nbsp; <sup>7</sup>ECNU &nbsp; <sup>8</sup>HIT
-</p>
-
-<p align="center">
   <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv"/></a>
-  <a href="#model-weights"><img src="https://img.shields.io/badge/🤗_HuggingFace-Models-yellow.svg" alt="Models"/></a>
   <a href="#vissearch-bench"><img src="https://img.shields.io/badge/📊_Benchmark-VisSearch-blue.svg" alt="Benchmark"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License"/></a>
 </p>
@@ -50,10 +39,6 @@ Training multimodal search agents to perform multi-hop reasoning remains challen
 ---
 
 ## Performance
-
-<p align="center">
-  <img src="assets/results.png" width="95%" alt="SearchEyes Results"/>
-</p>
 
 ### Main Results (6 Benchmarks)
 
@@ -194,15 +179,6 @@ bash scripts/evaluation/run_eval.sh \
     --benchmark mmsearch \
     --max-turns 50
 ```
-
----
-
-## Model Weights
-
-| Model | Base | Avg. (6 bench) | Link |
-|-------|------|:--------------:|------|
-| SearchEyes-9B | Qwen3.5-9B | 59.3 | Coming soon |
-| SearchEyes-27B | Qwen3.5-27B | 68.1 | Coming soon |
 
 ---
 
