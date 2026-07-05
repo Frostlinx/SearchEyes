@@ -11,6 +11,8 @@ Usage in verl config:
             name: searcheyes_compute_score
 """
 
+from __future__ import annotations
+
 import json
 import re
 import string
