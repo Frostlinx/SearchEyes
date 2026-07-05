@@ -1,0 +1,835 @@
+{
+  "mode": "lazy",
+  "n": 50,
+  "top_k": 20,
+  "runs": {
+    "A": {
+      "metric": {
+        "mode": "A",
+        "n_tasks": 50,
+        "hit_at_1": 1.0,
+        "hit_at_5": 1.0,
+        "hit_at_20": 1.0,
+        "mean_rank": 1,
+        "median_rank": 1.0,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_cfb4969a.jpg",
+          "elapsed_ms": 2104.1
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_e74ce1b5.jpg",
+          "elapsed_ms": 73.6
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_7cdf649d.jpg",
+          "elapsed_ms": 111.6
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_0068e279.jpg",
+          "elapsed_ms": 64.9
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_7613d7a3.jpg",
+          "elapsed_ms": 63.9
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_51c7a193.jpg",
+          "elapsed_ms": 82.0
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a1bcd5c1.jpg",
+          "elapsed_ms": 81.9
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a3f781b2.jpg",
+          "elapsed_ms": 107.9
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_29b2db7c.jpg",
+          "elapsed_ms": 120.7
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_b4792e8c.jpg",
+          "elapsed_ms": 70.2
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ffb7583d.jpg",
+          "elapsed_ms": 91.9
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ccdb13b4.jpg",
+          "elapsed_ms": 100.3
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_96c04af9.jpg",
+          "elapsed_ms": 67.8
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_8f673de1.jpg",
+          "elapsed_ms": 63.1
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ab61a768.jpg",
+          "elapsed_ms": 60.1
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_391c2796.jpg",
+          "elapsed_ms": 55.9
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_30b90bb1.jpg",
+          "elapsed_ms": 70.7
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_c25c9852.jpg",
+          "elapsed_ms": 70.9
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_73979cac.jpg",
+          "elapsed_ms": 60.2
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_336b6603.jpg",
+          "elapsed_ms": 80.2
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ffcd4fd1.jpg",
+          "elapsed_ms": 65.6
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_73e04484.jpg",
+          "elapsed_ms": 116.8
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_e6df6f61.jpg",
+          "elapsed_ms": 87.6
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_6424c11a.jpg",
+          "elapsed_ms": 117.5
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_49955021.jpg",
+          "elapsed_ms": 174.3
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_033f8c79.jpg",
+          "elapsed_ms": 194.6
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2120e5c7.jpg",
+          "elapsed_ms": 94.1
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a3590ceb.jpg",
+          "elapsed_ms": 78.9
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2149f89e.jpg",
+          "elapsed_ms": 152.2
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_914d8674.jpg",
+          "elapsed_ms": 79.9
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_614b8d4d.jpg",
+          "elapsed_ms": 85.6
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_c03f9091.jpg",
+          "elapsed_ms": 86.3
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_9a08844a.jpg",
+          "elapsed_ms": 62.9
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_42c076f6.jpg",
+          "elapsed_ms": 78.2
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_3306069f.jpg",
+          "elapsed_ms": 104.5
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_57406112.jpg",
+          "elapsed_ms": 101.6
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_323d2364.jpg",
+          "elapsed_ms": 88.9
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_62f8b02f.jpg",
+          "elapsed_ms": 98.0
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ab8d06cb.jpg",
+          "elapsed_ms": 80.2
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_626b81bc.jpg",
+          "elapsed_ms": 61.0
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_37d452c1.jpg",
+          "elapsed_ms": 59.7
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_f59bd541.jpg",
+          "elapsed_ms": 92.9
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_1711ba74.jpg",
+          "elapsed_ms": 145.2
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_5d658862.jpg",
+          "elapsed_ms": 85.5
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a314266a.jpg",
+          "elapsed_ms": 94.1
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_0f44c3a0.jpg",
+          "elapsed_ms": 96.7
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_1f41262d.jpg",
+          "elapsed_ms": 109.7
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_32771349.jpg",
+          "elapsed_ms": 90.7
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_d18764bc.jpg",
+          "elapsed_ms": 63.2
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2eb59a33.jpg",
+          "elapsed_ms": 67.0
+        }
+      ]
+    },
+    "B": {
+      "metric": {
+        "mode": "B_lazy",
+        "n_tasks": 50,
+        "hit_at_1": 0.72,
+        "hit_at_5": 0.96,
+        "hit_at_20": 1.0,
+        "mean_rank": 1.54,
+        "median_rank": 1.0,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Arniston (East Indiaman) Repulse, an East Indiaman from the same period and similar in size to Arniston",
+          "elapsed_ms": 237.8
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "List of foreign recipients of the Légion d'Honneur by country 1901 – Caballero – Légion d'honneur – Fernando Ferrari Pérez",
+          "elapsed_ms": 75.4
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 7,
+          "hit_at_20": true,
+          "query_used": "Dover Township, Fulton County, Ohio A  temporary landing zone was prepared by specially trained EMTs from Wauseon Fire Department and Fulton County EMS for Life Flight 2 to evacuate a local Dover farm accident patient.",
+          "elapsed_ms": 110.5
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "National Register of Historic Places listings in Wood County, West Virginia House at 10th and Avery Streets",
+          "elapsed_ms": 80.1
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Silverton Northern Railroad Silverton Northern railcar",
+          "elapsed_ms": 60.3
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Basel St. Johann railway station The station platform in 2010",
+          "elapsed_ms": 68.9
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Merenschwand Church of Merenschwand",
+          "elapsed_ms": 72.5
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Calotype William Henry Fox Talbot, by John Moffat, 1864",
+          "elapsed_ms": 68.9
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Flatside Wilderness Forked Mountain as seen from White Oak Mountain",
+          "elapsed_ms": 72.3
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Birgitte, Duchess of Gloucester The Duchess in Brisbane, 1979",
+          "elapsed_ms": 72.5
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "History of Poland Apartment blocks built in communist Poland (these located in Poznań)",
+          "elapsed_ms": 71.2
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "William Lamb (sculptor) Bill the Smith 1936.",
+          "elapsed_ms": 82.4
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "1958 Argentine general election Most voted party by province.",
+          "elapsed_ms": 72.5
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Maryland Public Secondary Schools Athletic Association River Hill's girls compete for a Class 2A girls' basketball state championship in 2009 at UMBC's Retriever Activities Center in Catonsville.",
+          "elapsed_ms": 79.3
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Sicut dudum Location of Canary Islands",
+          "elapsed_ms": 73.9
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Women's National Wheelchair Basketball League Sydney Metro Blues are the 2017 WNWBL gold medallists. Left to right: Bridie Kean, Jessica Pellow, Ashlea Pellow, Troy Sachs (coach), Jess Cronje, Kylie Gauci, Georgia Munro-Cook, Courtney Ryan, Kris Riley (team manager), Cobi Crispin, Maryanne Latu",
+          "elapsed_ms": 104.6
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Love Boat (study tour) American and Canadian students arriving by plane to Taiwan in 1967 to attend the first Overseas Chinese Youth Language Training and Study Tour(Currently named Overseas Compatriot Youth Taiwan Study Tour), informally known as The Love Boat. Photo permission provided by Victor Wong and the Chinese Canadian Archive.[1]",
+          "elapsed_ms": 97.7
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Banggai cardinalfish Banggai cardinalfish at the Budapest Zoo aquarium",
+          "elapsed_ms": 79.6
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Navaneetam Navaneetam scale with shadjam at C",
+          "elapsed_ms": 75.0
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "History of Milford Haven A plan of Milford Haven, 1758",
+          "elapsed_ms": 62.1
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Adana Garden of Adana Archaeology Museum",
+          "elapsed_ms": 79.4
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Štíhlice Coat of arms of Štíhlice",
+          "elapsed_ms": 70.5
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Darlinghurst, New South Wales Diana Bowman Performing Arts Centre (SCEGGS)",
+          "elapsed_ms": 71.4
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Portsmouth F.C. Flag of the City of Portsmouth",
+          "elapsed_ms": 66.4
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Rother Vale Collieries Thurcroft Colliery (1977)",
+          "elapsed_ms": 60.1
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Architecture of Mongolia Early-20th-century yurt-shaped temple",
+          "elapsed_ms": 50.1
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "L'Occitane en Provence A tin of L'Occitane shea Butter",
+          "elapsed_ms": 51.5
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Hassan Raza Ghadeeri Largest Crowd Attendance in Hussainia Centre Bradford",
+          "elapsed_ms": 71.2
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Tsz Shan Monastery Bronze Guanyin statue, 76 meters in Tsz Shan Monastery",
+          "elapsed_ms": 64.5
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Giuseppe Giorgetti Saint Sebastian in the Basilica di San Sebastiano fuori le mura",
+          "elapsed_ms": 63.0
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Black Mesa (Oklahoma) Black Mesa, highest point in Oklahoma",
+          "elapsed_ms": 61.6
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Economy of Pakistan GDP Rate of Growth 2012–2018",
+          "elapsed_ms": 61.5
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Asaka Station (Saitama) The south entrance in September 2012",
+          "elapsed_ms": 93.7
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Fælledparken Fælledparken with Parken Stadium in the upper right corner",
+          "elapsed_ms": 93.3
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Blossom Cherry blossoms in Paris in full bloom.",
+          "elapsed_ms": 85.1
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Mahboub Maalim Mahboub Maalim - Executive Secretary of the Intergovernmental Authority on Development (IGAD)(2008-2019)",
+          "elapsed_ms": 89.3
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "David Pritchard (cricketer) Dave Pritchard, 1924.",
+          "elapsed_ms": 67.9
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Amb (princely state) Standing L_R: Doctor Masdar Ali (Physician of the Nawab of Amb), some servants of the Nawab of Amb) Sitting: Nawabzada Mohammad Ismail Khan Tanoli of Chanser and brother of Nawab Khan i Zaman Khan Tanoli, Shergarh 1930.",
+          "elapsed_ms": 83.4
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Templeville, Maryland Location of Templeville, Maryland",
+          "elapsed_ms": 61.6
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Jean Jansem Azumino Jansem Museum",
+          "elapsed_ms": 61.5
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "California State Route 13 The Warren Freeway portion of State Route 13 between Joaquin Miller Road and Redwood Road.",
+          "elapsed_ms": 76.7
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "22 July Information Centre 22 July Information Centre is located at the ground floor",
+          "elapsed_ms": 67.6
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Roger Nichols (recording engineer) Nichols and electric guitar & multitrack recording inventor Les Paul",
+          "elapsed_ms": 66.9
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Green Oak Township, Michigan Green Oak Township Hall on Silver Lake Road",
+          "elapsed_ms": 78.9
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "When You Get a Little Lonely McCormick in a 1971 The Brady Bunch promotional photo",
+          "elapsed_ms": 68.5
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Arturo Frondizi Textile workers' leader Andrés Framini, whose talks with Frondizi resulted in the lifting of federal control over the CGT",
+          "elapsed_ms": 69.0
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 6,
+          "hit_at_20": true,
+          "query_used": "Monchy-au-Bois The town hall of Monchy-au-Bois",
+          "elapsed_ms": 70.2
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Moldova Chișinău International Airport.",
+          "elapsed_ms": 68.6
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Lewis and Lucretia Taylor House TAYLOR HOUSE PHOTOGRAPH",
+          "elapsed_ms": 72.2
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Philip the Apostle James Tissot – Saint Philip (Saint Philippe) – Brooklyn Museum",
+          "elapsed_ms": 85.2
+        }
+      ]
+    }
+  }
+}

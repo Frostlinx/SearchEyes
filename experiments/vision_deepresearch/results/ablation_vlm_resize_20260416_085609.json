@@ -1,0 +1,836 @@
+{
+  "mode": "vlm",
+  "n": 50,
+  "top_k": 20,
+  "query_transform": "resize",
+  "runs": {
+    "A": {
+      "metric": {
+        "mode": "A_resize",
+        "n_tasks": 50,
+        "hit_at_1": 1.0,
+        "hit_at_5": 1.0,
+        "hit_at_20": 1.0,
+        "mean_rank": 1,
+        "median_rank": 1.0,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_cfb4969a_resize_ea8cd1318c45.jpg",
+          "elapsed_ms": 1834.0
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_e74ce1b5_resize_b04e36d93de5.jpg",
+          "elapsed_ms": 79.6
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_7cdf649d_resize_727faeebaaaa.jpg",
+          "elapsed_ms": 77.4
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_0068e279_resize_69ed6d447111.jpg",
+          "elapsed_ms": 104.4
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_7613d7a3_resize_6586f3c14b7c.jpg",
+          "elapsed_ms": 75.4
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_51c7a193_resize_bde65e113277.jpg",
+          "elapsed_ms": 74.9
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_a1bcd5c1_resize_0542b792df76.jpg",
+          "elapsed_ms": 80.3
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_a3f781b2_resize_c8ddff61bfa6.jpg",
+          "elapsed_ms": 74.8
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_29b2db7c_resize_a28e67962789.jpg",
+          "elapsed_ms": 71.1
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_b4792e8c_resize_dfe0e50bef05.jpg",
+          "elapsed_ms": 101.9
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_ffb7583d_resize_4eeb675378b5.jpg",
+          "elapsed_ms": 55.2
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_ccdb13b4_resize_42ce5a7e7d08.jpg",
+          "elapsed_ms": 58.5
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_96c04af9_resize_32d9063620ec.jpg",
+          "elapsed_ms": 92.6
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_8f673de1_resize_2a3e09ac300c.jpg",
+          "elapsed_ms": 77.7
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_ab61a768_resize_aab43a062e4a.jpg",
+          "elapsed_ms": 50.4
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_391c2796_resize_2c6bd11291bd.jpg",
+          "elapsed_ms": 74.9
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_30b90bb1_resize_73fc21689b3a.jpg",
+          "elapsed_ms": 74.6
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_c25c9852_resize_ea79344c4bfb.jpg",
+          "elapsed_ms": 66.8
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_73979cac_resize_9f2e1c1297f5.jpg",
+          "elapsed_ms": 55.2
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_336b6603_resize_9d6209d39507.jpg",
+          "elapsed_ms": 89.3
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_ffcd4fd1_resize_1ea3348f5031.jpg",
+          "elapsed_ms": 113.8
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_73e04484_resize_88b23c4dbba5.jpg",
+          "elapsed_ms": 73.1
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_e6df6f61_resize_48fc615e15cc.jpg",
+          "elapsed_ms": 71.8
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_6424c11a_resize_74ce6bd1ba17.jpg",
+          "elapsed_ms": 59.7
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_49955021_resize_64b4a40cc4a3.jpg",
+          "elapsed_ms": 89.7
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_033f8c79_resize_84b85beeb09a.jpg",
+          "elapsed_ms": 57.9
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_2120e5c7_resize_e8fedd8a8591.jpg",
+          "elapsed_ms": 73.9
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_a3590ceb_resize_a556ab10a930.jpg",
+          "elapsed_ms": 58.8
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_2149f89e_resize_77f38bf5c3fc.jpg",
+          "elapsed_ms": 83.8
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_914d8674_resize_6684c6ccf913.jpg",
+          "elapsed_ms": 73.3
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_614b8d4d_resize_16a1a77d2e1f.jpg",
+          "elapsed_ms": 66.8
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_c03f9091_resize_7239dc0bfd20.jpg",
+          "elapsed_ms": 62.8
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_9a08844a_resize_81ba2bea6d32.jpg",
+          "elapsed_ms": 49.7
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_42c076f6_resize_6faf22b55232.jpg",
+          "elapsed_ms": 75.6
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_3306069f_resize_d06deb4b897b.jpg",
+          "elapsed_ms": 87.9
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_57406112_resize_ec314e97f2d4.jpg",
+          "elapsed_ms": 74.4
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_323d2364_resize_2e72281ab5e1.jpg",
+          "elapsed_ms": 53.8
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_62f8b02f_resize_6eed58de6b39.jpg",
+          "elapsed_ms": 70.6
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_ab8d06cb_resize_008358487d54.jpg",
+          "elapsed_ms": 208.4
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_626b81bc_resize_3178565df743.jpg",
+          "elapsed_ms": 70.4
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_37d452c1_resize_3dd651da1fb9.jpg",
+          "elapsed_ms": 48.6
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_f59bd541_resize_8fe9269eaa0d.jpg",
+          "elapsed_ms": 62.8
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_1711ba74_resize_d87850b389ef.jpg",
+          "elapsed_ms": 49.2
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_5d658862_resize_4d5984653e5e.jpg",
+          "elapsed_ms": 52.9
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_a314266a_resize_946359d5edd6.jpg",
+          "elapsed_ms": 65.7
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_0f44c3a0_resize_c85f9af966de.jpg",
+          "elapsed_ms": 50.5
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_1f41262d_resize_104593059bb2.jpg",
+          "elapsed_ms": 99.1
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_32771349_resize_765e7630af06.jpg",
+          "elapsed_ms": 58.4
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_d18764bc_resize_d906f454d95f.jpg",
+          "elapsed_ms": 73.8
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/tmp/vdr_query_xform/witb_2eb59a33_resize_078dadad9f5c.jpg",
+          "elapsed_ms": 144.9
+        }
+      ]
+    },
+    "B": {
+      "metric": {
+        "mode": "B_vlm_resize",
+        "n_tasks": 50,
+        "hit_at_1": 0.52,
+        "hit_at_5": 1.0,
+        "hit_at_20": 1.0,
+        "mean_rank": 1.66,
+        "median_rank": 1.0,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "HMS Victory A large three-masted sailing warship with a dark hull and multiple flags, including a red ensign, is depicted at anchor in calm waters with a coastal town in the background.",
+          "elapsed_ms": 13653.4
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Certificate of the Legion of Honor An official French award document from the National Order of the Legion of Honor, issued to a recipient named \"Le Président de la République Française\" with signatures and seals, dated 1918.",
+          "elapsed_ms": 1312.3
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 5,
+          "hit_at_20": true,
+          "query_used": "Helicopter landing in open field A helicopter hovers low over a grassy field as two people stand in the foreground observing, with trees and a distant vehicle visible in the background.",
+          "elapsed_ms": 985.3
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Victorian-style house A two-story Victorian house with purple and gray trim, gabled roof, and multiple windows, parked in front of a black pickup truck and a silver sedan under a partly cloudy sky.",
+          "elapsed_ms": 1089.1
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Historic railway station and car A black-and-white photograph shows a wooden station building with a porch, a vintage railcar parked beside it, and a mountainous backdrop under a partly cloudy sky.",
+          "elapsed_ms": 1033.3
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Railway tracks and station infrastructure Multiple parallel railway tracks stretch into the distance under a clear sky, with platforms, overhead structures, and industrial buildings visible in the background.",
+          "elapsed_ms": 919.0
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Church and municipal building in a town A white church with a steeple and a municipal building with a flagpole displaying the Swiss flag stand side by side under a clear blue sky, surrounded by trees and residential structures.",
+          "elapsed_ms": 1161.3
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Man seated at a desk with a camera A man in formal 19th-century attire sits at a wooden desk, holding a camera with a lens and shutter, in a studio setting with ornate furniture.",
+          "elapsed_ms": 1119.3
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Mountain landscape A prominent rocky peak rises above a forested valley under a clear blue sky, with distant hills and autumn-colored trees in the foreground.",
+          "elapsed_ms": 851.7
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Three individuals in an outdoor setting A police officer in uniform stands beside two women, one wearing a straw hat and light-colored dress, the other in a light blue patterned dress and white hat, with a background of trees and other people.",
+          "elapsed_ms": 1262.0
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Urban residential buildings A cluster of multi-story apartment buildings with beige and orange facades stands behind a road with vehicles and a metal railing, under a clear blue sky.",
+          "elapsed_ms": 979.8
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Statue of a man A stone statue depicts a man in a short-sleeved shirt and trousers, standing with hands in pockets against a draped curtain backdrop.",
+          "elapsed_ms": 943.0
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Map of Argentina showing Union Cívica Radical's electoral performance A choropleth map of Argentina displays regional voting percentages for the Union Cívica Radical party, with a legend indicating support levels from 0–20% to 40–60%, and labels for national territories.",
+          "elapsed_ms": 1533.9
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Basketball players on court A group of young female basketball players in uniforms with visible numbers 23, 12, and 14 are on a wooden court during a game or practice, with one player in a white jersey gesturing while others observe.",
+          "elapsed_ms": 1360.8
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Map of Spain The image displays a map highlighting Spain in green, with an inset world map indicating its global location, and also shows the Canary Islands off the coast.",
+          "elapsed_ms": 936.1
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Wheelchair basketball team A group of female athletes in wheelchairs and a coach pose with a trophy on a wooden court, in front of a backdrop with logos and text, including \"WHEELCHAIR BASKETBALL\" and \"NATIONAL CHAMPIONS\".",
+          "elapsed_ms": 1362.8
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Group of people disembarking from an airplane A crowd of individuals, some carrying bags and flags, walks across an airport tarmac toward the foreground, with a large aircraft and distant hills visible in the background.",
+          "elapsed_ms": 1136.3
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Fish A black-and-white striped fish with spotted fins swims in an aquarium with blurred green aquatic plants and white gravel in the background.",
+          "elapsed_ms": 808.7
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Piano keyboard diagram A diagram of a piano keyboard showing labeled keys including R1, S, G1, M2, P, D2, N2, and S, with black and white keys arranged in a standard pattern.",
+          "elapsed_ms": 1243.3
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "A Plan of the Delaware River An antique map depicting the Delaware River and surrounding regions, with labeled geographical features and a compass rose in the lower-left corner.",
+          "elapsed_ms": 896.7
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Ancient stone monument in a garden A weathered stone monument with carved reliefs stands in a grassy area surrounded by trees and other stone structures, suggesting an archaeological site or historical garden.",
+          "elapsed_ms": 1063.5
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Coat of Arms A shield divided vertically into blue and green sections, featuring a white tower with a black arched doorway, flanked by yellow leaves, and topped with a yellow stylized \"T\" with three vertical bars.",
+          "elapsed_ms": 1243.6
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Modern building with a prominent black vertical panel A contemporary building with a black vertical panel featuring a crest and the word \"COURT\" is situated on a street under a clear blue sky, with a sidewalk and streetlamp visible.",
+          "elapsed_ms": 1225.7
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Flag of the Republic of the Philippines A blue field with a golden sun with eight rays above a golden crescent moon.",
+          "elapsed_ms": 748.1
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Industrial complex with mining equipment A brick building with a large metal headframe and conveyor system stands in an industrial area with other structures and open ground under an overcast sky.",
+          "elapsed_ms": 954.2
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Traditional Chinese architectural structures A weathered white building with a red-tiled roof stands in front of larger traditional Chinese-style buildings with curved eaves and tiled roofs under a clear blue sky.",
+          "elapsed_ms": 1041.7
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Shea Butter Container An open metal tin of shea butter with a partially used applicator and a labeled lid displaying \"Return of the Madam\" and \"Shea Butter\" on a wooden surface.",
+          "elapsed_ms": 1092.8
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Large gathering of people in a hall A dense crowd of individuals, mostly dressed in dark clothing, is seated facing a stage at the far end of a large indoor hall with religious or ceremonial decor.",
+          "elapsed_ms": 1075.3
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "White Buddha Statue A large white statue of a standing Buddha is positioned outdoors in front of a traditional Japanese-style temple building with a dark roof, surrounded by green trees and mountains under an overcast sky.",
+          "elapsed_ms": 1093.9
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Marble effigy of a reclining figure A white marble sculpture of a reclining figure, possibly a deceased person, is displayed within an ornate, dark wooden and stone recessed niche in a dimly lit interior space.",
+          "elapsed_ms": 1198.0
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "South Monument A tall, reddish-brown stone monument with engraved text and a circular emblem reading \"SOUTH\" stands in a dry, open field under a clear blue sky, surrounded by sparse vegetation and rocks.",
+          "elapsed_ms": 1157.4
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "GDP Growth % A bar chart displaying GDP growth percentages for fiscal years 2012 through 2018, with values ranging from approximately 3.5% to 5.5%.",
+          "elapsed_ms": 1102.1
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Modern architectural complex A contemporary building with a large glass and metal canopy structure, set against a clear blue sky with scattered clouds, surrounded by paved walkways and landscaped greenery.",
+          "elapsed_ms": 1011.1
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Stadion am Bieberer Berg An aerial view of the football stadium surrounded by green fields, autumnal trees, and urban buildings in a city setting.",
+          "elapsed_ms": 910.9
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Cherry blossom tree A large, fully bloomed cherry blossom tree with dense pink flowers stands in a park-like setting under a clear blue sky, surrounded by green grass, a low fence, and other trees in early spring.",
+          "elapsed_ms": 1200.1
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Man in formal attire A man wearing a dark suit, white shirt, and red patterned tie stands indoors against a backdrop of curtains and a plant.",
+          "elapsed_ms": 894.6
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Cricket player A man in cricket attire is bent over, holding a bat in a ready stance on a grassy field with a white picket fence in the background.",
+          "elapsed_ms": 960.9
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Group of men in traditional attire Four men, including one seated in the foreground wearing a turban and light-colored clothing, are posed outdoors in a black-and-white photograph, with three standing behind him in formal or traditional dress.",
+          "elapsed_ms": 1216.6
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Maryland county map with highlighted area A map of Maryland shows a specific county highlighted in red, with a close-up inset on the left indicating the location of that county within the state.",
+          "elapsed_ms": 1034.8
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Art gallery interior A dimly lit gallery space with multiple framed paintings on the walls, a single bench in the center, and a dark reflective floor.",
+          "elapsed_ms": 894.5
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Highway road scene A two-lane asphalt road with a yellow center line, bordered by trees and a concrete barrier on the left, under a clear blue sky.",
+          "elapsed_ms": 932.5
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Modern office building entrance A multi-story building with a grid of windows and a covered entranceway, flanked by bare trees on a paved walkway.",
+          "elapsed_ms": 886.3
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Two men posing for a photograph Two men are standing close together indoors, one wearing a red turtleneck and black jacket, the other in a light green polo shirt with a lanyard bearing a white ID badge.",
+          "elapsed_ms": 1173.7
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Building with sign and parking lot A single-story brick building with a dark roof, surrounded by evergreen trees and a gravel parking lot with parked vehicles under a clear blue sky.",
+          "elapsed_ms": 994.6
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Woman with long hair A black-and-white portrait of a smiling woman with long, straight hair wearing a textured knit sweater, set against a plain background.",
+          "elapsed_ms": 867.9
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Man in suit and sunglasses A man wearing a dark suit, white shirt, dark tie, and sunglasses is shown in a black-and-white photograph, with a white pocket square visible.",
+          "elapsed_ms": 1021.9
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Red brick building with arched windows and gabled roof A large, historic-style red brick building with multiple arched windows, a gabled roof, and visible chimneys, situated in an open area with bare trees and a paved foreground.",
+          "elapsed_ms": 1262.1
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 4,
+          "hit_at_20": true,
+          "query_used": "Airport terminal building A modern airport terminal building with \"AIRPORT\" signage on its roof, surrounded by parked vehicles and a pedestrian walkway under a clear blue sky.",
+          "elapsed_ms": 965.9
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Two-story house with porch A white, two-story house with a gray roof and front porch, surrounded by trees and a red walkway, with a historical marker visible on the right side of the property.",
+          "elapsed_ms": 1119.1
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "A man in a blue robe with a brown cloak The man stands barefoot on a rocky terrain, holding his head with both hands, with a brown cloak draped over his shoulders and a belt around his waist.",
+          "elapsed_ms": 1149.3
+        }
+      ]
+    }
+  }
+}

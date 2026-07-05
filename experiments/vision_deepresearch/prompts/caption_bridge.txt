@@ -1,0 +1,13 @@
+You are looking at an image. Generate a precise text description suitable for document retrieval.
+
+Requirements:
+1. Identify the main subject (person, place, object, event)
+2. Include any visible text, names, labels, or numbers
+3. Describe the context or setting briefly
+4. Use specific nouns, not vague descriptions
+
+Output format — two lines only:
+SUBJECT: <main entity name or title>
+DESCRIPTION: <one sentence describing what is shown>
+
+Be factual and specific. Do not hallucinate names you are not sure about.

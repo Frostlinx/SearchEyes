@@ -1,0 +1,51 @@
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.eggs/
+
+# ── Large model weights ──
+models/
+checkpoints/
+*.bin
+*.safetensors
+*.gguf
+
+# ── Large data (download separately) ──
+data/wit_kb_v2/
+data/wikidata5m/
+data/wiki6m/
+data/sft_train.jsonl
+data/sft_eval.jsonl
+data/component_library/
+data/screen_ir/
+data/style_repository/
+data/e2_results/
+data/pipeline_test/
+
+# ── Generated outputs ──
+output/
+logs/
+reports/
+wandb/
+
+# ── macOS ──
+.DS_Store
+._*
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Misc ──
+*.pdf
+*.docx
+*.pptx
+*.bak

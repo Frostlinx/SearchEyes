@@ -1,0 +1,786 @@
+{
+  "mode": "ab_vlm",
+  "n": 50,
+  "top_k": 20,
+  "query_transform": "exact",
+  "runs": {
+    "A": {
+      "metric": {
+        "mode": "A",
+        "n_tasks": 50,
+        "hit_at_1": 1.0,
+        "hit_at_5": 1.0,
+        "hit_at_20": 1.0,
+        "mean_rank": 1,
+        "median_rank": 1.0,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_cfb4969a.jpg",
+          "elapsed_ms": 1792.1
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_e74ce1b5.jpg",
+          "elapsed_ms": 74.2
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_7cdf649d.jpg",
+          "elapsed_ms": 79.4
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_0068e279.jpg",
+          "elapsed_ms": 74.9
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_7613d7a3.jpg",
+          "elapsed_ms": 80.3
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_51c7a193.jpg",
+          "elapsed_ms": 85.7
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a1bcd5c1.jpg",
+          "elapsed_ms": 59.4
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a3f781b2.jpg",
+          "elapsed_ms": 85.6
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_29b2db7c.jpg",
+          "elapsed_ms": 74.5
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_b4792e8c.jpg",
+          "elapsed_ms": 78.4
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ffb7583d.jpg",
+          "elapsed_ms": 76.6
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ccdb13b4.jpg",
+          "elapsed_ms": 67.5
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_96c04af9.jpg",
+          "elapsed_ms": 81.1
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_8f673de1.jpg",
+          "elapsed_ms": 61.8
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ab61a768.jpg",
+          "elapsed_ms": 75.7
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_391c2796.jpg",
+          "elapsed_ms": 204.6
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_30b90bb1.jpg",
+          "elapsed_ms": 56.5
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_c25c9852.jpg",
+          "elapsed_ms": 57.0
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_73979cac.jpg",
+          "elapsed_ms": 58.1
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_336b6603.jpg",
+          "elapsed_ms": 51.5
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ffcd4fd1.jpg",
+          "elapsed_ms": 85.8
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_73e04484.jpg",
+          "elapsed_ms": 83.5
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_e6df6f61.jpg",
+          "elapsed_ms": 53.3
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_6424c11a.jpg",
+          "elapsed_ms": 76.7
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_49955021.jpg",
+          "elapsed_ms": 87.7
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_033f8c79.jpg",
+          "elapsed_ms": 123.0
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2120e5c7.jpg",
+          "elapsed_ms": 101.2
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a3590ceb.jpg",
+          "elapsed_ms": 127.1
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2149f89e.jpg",
+          "elapsed_ms": 62.8
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_914d8674.jpg",
+          "elapsed_ms": 117.1
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_614b8d4d.jpg",
+          "elapsed_ms": 71.8
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_c03f9091.jpg",
+          "elapsed_ms": 75.7
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_9a08844a.jpg",
+          "elapsed_ms": 67.5
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_42c076f6.jpg",
+          "elapsed_ms": 59.2
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_3306069f.jpg",
+          "elapsed_ms": 63.7
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_57406112.jpg",
+          "elapsed_ms": 71.4
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_323d2364.jpg",
+          "elapsed_ms": 78.6
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_62f8b02f.jpg",
+          "elapsed_ms": 106.1
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ab8d06cb.jpg",
+          "elapsed_ms": 54.9
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_626b81bc.jpg",
+          "elapsed_ms": 55.9
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_37d452c1.jpg",
+          "elapsed_ms": 61.9
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_f59bd541.jpg",
+          "elapsed_ms": 51.3
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_1711ba74.jpg",
+          "elapsed_ms": 59.9
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_5d658862.jpg",
+          "elapsed_ms": 110.1
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a314266a.jpg",
+          "elapsed_ms": 60.9
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_0f44c3a0.jpg",
+          "elapsed_ms": 77.5
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_1f41262d.jpg",
+          "elapsed_ms": 47.3
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_32771349.jpg",
+          "elapsed_ms": 111.3
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_d18764bc.jpg",
+          "elapsed_ms": 58.5
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2eb59a33.jpg",
+          "elapsed_ms": 80.9
+        }
+      ]
+    },
+    "AB": {
+      "metric": {
+        "mode": "AB",
+        "n_tasks": 50,
+        "hit_at_1": 0.86,
+        "hit_at_5": 1.0,
+        "hit_at_20": 1.0,
+        "mean_rank": 1.18,
+        "median_rank": 1.0,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 9721.1
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 2,
+          "hit_at_20": true,
+          "elapsed_ms": 1188.4
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 3,
+          "hit_at_20": true,
+          "elapsed_ms": 1031.9
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1180.0
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1140.0
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 2,
+          "hit_at_20": true,
+          "elapsed_ms": 1024.4
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 2,
+          "hit_at_20": true,
+          "elapsed_ms": 1356.6
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1205.4
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1075.0
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1270.3
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1166.5
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1094.0
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 2202.7
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1473.9
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1045.6
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1140.9
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1176.6
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 895.6
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 2,
+          "hit_at_20": true,
+          "elapsed_ms": 1020.4
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1294.8
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 990.5
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1246.3
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1526.8
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 885.8
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1156.2
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1186.7
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1309.0
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1040.6
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1236.0
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1253.9
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1363.6
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1287.2
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1166.7
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 999.8
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1327.6
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1587.3
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1334.5
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1444.8
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1163.4
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1027.5
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1243.3
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1218.8
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1461.5
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 2,
+          "hit_at_20": true,
+          "elapsed_ms": 1107.2
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 947.6
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1185.8
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1134.7
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 3,
+          "hit_at_20": true,
+          "elapsed_ms": 1321.2
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 986.7
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "elapsed_ms": 1223.4
+        }
+      ]
+    }
+  }
+}

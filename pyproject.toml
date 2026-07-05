@@ -1,0 +1,43 @@
+[project]
+name = "searcheyes"
+version = "0.1.0"
+description = "SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+authors = [
+    {name = "Zhengbo Jiao", email = "Frostlin2005@gmail.com"},
+]
+dependencies = [
+    "numpy>=1.24.0",
+    "torch>=2.1.0",
+    "transformers>=4.40.0",
+    "datasets>=2.16.0",
+    "requests>=2.28.0",
+    "Pillow>=10.0.0",
+]
+
+[project.optional-dependencies]
+train = [
+    "verl>=0.3.0",
+    "deepspeed>=0.14.0",
+]
+eval = [
+    "vllm>=0.4.0",
+    "matplotlib>=3.7.0",
+]
+data = [
+    "pyarrow>=14.0.0",
+    "chromadb>=0.5.0",
+    "playwright>=1.40.0",
+]
+dev = [
+    "pytest>=7.0.0",
+    "ruff>=0.1.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[tool.setuptools.packages.find]
+include = ["searcheyes*"]

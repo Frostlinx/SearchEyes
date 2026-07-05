@@ -1,0 +1,835 @@
+{
+  "mode": "vlm",
+  "n": 50,
+  "top_k": 20,
+  "runs": {
+    "A": {
+      "metric": {
+        "mode": "A",
+        "n_tasks": 50,
+        "hit_at_1": 1.0,
+        "hit_at_5": 1.0,
+        "hit_at_20": 1.0,
+        "mean_rank": 1,
+        "median_rank": 1.0,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_cfb4969a.jpg",
+          "elapsed_ms": 2077.9
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_e74ce1b5.jpg",
+          "elapsed_ms": 83.4
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_7cdf649d.jpg",
+          "elapsed_ms": 172.3
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_0068e279.jpg",
+          "elapsed_ms": 107.0
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_7613d7a3.jpg",
+          "elapsed_ms": 67.2
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_51c7a193.jpg",
+          "elapsed_ms": 126.1
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a1bcd5c1.jpg",
+          "elapsed_ms": 95.1
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a3f781b2.jpg",
+          "elapsed_ms": 76.8
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_29b2db7c.jpg",
+          "elapsed_ms": 80.4
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_b4792e8c.jpg",
+          "elapsed_ms": 65.9
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ffb7583d.jpg",
+          "elapsed_ms": 61.4
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ccdb13b4.jpg",
+          "elapsed_ms": 114.3
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_96c04af9.jpg",
+          "elapsed_ms": 80.1
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_8f673de1.jpg",
+          "elapsed_ms": 122.7
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ab61a768.jpg",
+          "elapsed_ms": 63.5
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_391c2796.jpg",
+          "elapsed_ms": 82.3
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_30b90bb1.jpg",
+          "elapsed_ms": 59.2
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_c25c9852.jpg",
+          "elapsed_ms": 100.8
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_73979cac.jpg",
+          "elapsed_ms": 82.1
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_336b6603.jpg",
+          "elapsed_ms": 118.9
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ffcd4fd1.jpg",
+          "elapsed_ms": 88.3
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_73e04484.jpg",
+          "elapsed_ms": 56.0
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_e6df6f61.jpg",
+          "elapsed_ms": 74.5
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_6424c11a.jpg",
+          "elapsed_ms": 70.0
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_49955021.jpg",
+          "elapsed_ms": 72.9
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_033f8c79.jpg",
+          "elapsed_ms": 56.8
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2120e5c7.jpg",
+          "elapsed_ms": 84.3
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a3590ceb.jpg",
+          "elapsed_ms": 90.6
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2149f89e.jpg",
+          "elapsed_ms": 81.7
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_914d8674.jpg",
+          "elapsed_ms": 80.2
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_614b8d4d.jpg",
+          "elapsed_ms": 79.9
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_c03f9091.jpg",
+          "elapsed_ms": 92.6
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_9a08844a.jpg",
+          "elapsed_ms": 136.5
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_42c076f6.jpg",
+          "elapsed_ms": 75.7
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_3306069f.jpg",
+          "elapsed_ms": 74.6
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_57406112.jpg",
+          "elapsed_ms": 65.9
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_323d2364.jpg",
+          "elapsed_ms": 91.7
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_62f8b02f.jpg",
+          "elapsed_ms": 112.7
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_ab8d06cb.jpg",
+          "elapsed_ms": 81.3
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_626b81bc.jpg",
+          "elapsed_ms": 59.1
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_37d452c1.jpg",
+          "elapsed_ms": 58.1
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_f59bd541.jpg",
+          "elapsed_ms": 92.4
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_1711ba74.jpg",
+          "elapsed_ms": 95.7
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_5d658862.jpg",
+          "elapsed_ms": 93.3
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_a314266a.jpg",
+          "elapsed_ms": 57.4
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_0f44c3a0.jpg",
+          "elapsed_ms": 66.1
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_1f41262d.jpg",
+          "elapsed_ms": 89.2
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_32771349.jpg",
+          "elapsed_ms": 70.2
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_d18764bc.jpg",
+          "elapsed_ms": 69.5
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "/root/autodl-tmp/QWEN/QWEN-project/data/wit_kb_v2/images/witb_2eb59a33.jpg",
+          "elapsed_ms": 87.5
+        }
+      ]
+    },
+    "B": {
+      "metric": {
+        "mode": "B_vlm",
+        "n_tasks": 50,
+        "hit_at_1": 0.5,
+        "hit_at_5": 0.98,
+        "hit_at_20": 1.0,
+        "mean_rank": 2,
+        "median_rank": 1.5,
+        "not_found": 0
+      },
+      "details": [
+        {
+          "task_id": "task_0000",
+          "gt_wit_id": "witb_cfb4969a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "HMS Victory A large three-masted sailing warship, HMS Victory, is docked in a harbor with flags flying, including a red ensign and a blue flag, under a pale sky.",
+          "elapsed_ms": 14636.3
+        },
+        {
+          "task_id": "task_0001",
+          "gt_wit_id": "witb_e74ce1b5",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Certificate of the Legion of Honor An official French certificate awarded by the Grand Chancellor of the Legion of Honor to the President of the Republic, signed by the President and dated 1919.",
+          "elapsed_ms": 1164.2
+        },
+        {
+          "task_id": "task_0002",
+          "gt_wit_id": "witb_7cdf649d",
+          "rank": 4,
+          "hit_at_20": true,
+          "query_used": "Helicopter landing observation Two people stand in a grassy field watching a white and blue helicopter hover low over the ground near a tree line under a bright sky.",
+          "elapsed_ms": 1140.7
+        },
+        {
+          "task_id": "task_0003",
+          "gt_wit_id": "witb_0068e279",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Victorian-style house A two-story Victorian house with purple and gray trim, gabled roof, and front porch, parked in front of a wooden fence with a black pickup truck and a silver sedan visible.",
+          "elapsed_ms": 1179.0
+        },
+        {
+          "task_id": "task_0004",
+          "gt_wit_id": "witb_7613d7a3",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Historic railway station and carriage A black-and-white photograph shows a wooden station building with a porch, a white passenger carriage parked beside it, and a mountainous backdrop under a partly cloudy sky.",
+          "elapsed_ms": 1121.5
+        },
+        {
+          "task_id": "task_0005",
+          "gt_wit_id": "witb_51c7a193",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Railway yard with multiple tracks A wide view of a railway yard featuring numerous parallel tracks, a yellow maintenance vehicle, and industrial buildings in the background under a clear sky.",
+          "elapsed_ms": 1008.9
+        },
+        {
+          "task_id": "task_0006",
+          "gt_wit_id": "witb_a1bcd5c1",
+          "rank": 5,
+          "hit_at_20": true,
+          "query_used": "Church and municipal building in a village A white church with a steeple and a clock tower stands beside a light-colored municipal building under a clear blue sky, with a flagpole displaying a red and white flag in the foreground.",
+          "elapsed_ms": 1279.4
+        },
+        {
+          "task_id": "task_0007",
+          "gt_wit_id": "witb_a3f781b2",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Man in formal attire A man with receding hair, wearing a dark coat and bow tie, sits at a carved wooden desk with a camera-like device on it, in a studio setting.",
+          "elapsed_ms": 1101.7
+        },
+        {
+          "task_id": "task_0008",
+          "gt_wit_id": "witb_29b2db7c",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Mountain landscape A prominent rocky peak rises above a forested valley under a clear blue sky, with foreground trees displaying autumnal orange and green foliage.",
+          "elapsed_ms": 890.5
+        },
+        {
+          "task_id": "task_0009",
+          "gt_wit_id": "witb_b4792e8c",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Royal family members at an outdoor event A woman in a light yellow dress and straw hat smiles beside an older woman in a light green patterned dress and white hat, with a police officer in uniform standing to their left.",
+          "elapsed_ms": 1285.0
+        },
+        {
+          "task_id": "task_0010",
+          "gt_wit_id": "witb_ffb7583d",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Urban residential buildings A cluster of multi-story apartment buildings with orange and beige facades, surrounded by roads, vehicles, and a pedestrian overpass under a clear sky.",
+          "elapsed_ms": 1048.9
+        },
+        {
+          "task_id": "task_0011",
+          "gt_wit_id": "witb_ccdb13b4",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Sculpture of a man A full-length, monochrome sculpture of a young man in casual attire stands on a pedestal against a draped curtain backdrop.",
+          "elapsed_ms": 1098.6
+        },
+        {
+          "task_id": "task_0012",
+          "gt_wit_id": "witb_96c04af9",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Map of Argentina showing UCR electoral support A choropleth map of Argentina displays the percentage of votes received by the Unión Cívica Radical (Fiondiz-Gómez) across provinces, with color-coded regions indicating vote shares above 30%, 40%, 50%, or 60%, and gray areas representing Territorios Nacionales.",
+          "elapsed_ms": 2111.5
+        },
+        {
+          "task_id": "task_0013",
+          "gt_wit_id": "witb_8f673de1",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "High school girls' basketball game Players in black and white uniforms with visible numbers 20, 23, and 12 are on a wooden court with \"CITY\" and \"14\" on jerseys, during a game.",
+          "elapsed_ms": 1395.3
+        },
+        {
+          "task_id": "task_0014",
+          "gt_wit_id": "witb_ab61a768",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Map of Spain and Canary Islands A map highlighting Spain in green with its Canary Islands off the coast, accompanied by a small inset world map indicating the region's global location.",
+          "elapsed_ms": 1115.7
+        },
+        {
+          "task_id": "task_0015",
+          "gt_wit_id": "witb_391c2796",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Wheelchair basketball team A group of female athletes in wheelchairs and their coaches pose for a photo with a trophy in front of a backdrop featuring logos and text, likely after a competition.",
+          "elapsed_ms": 1130.1
+        },
+        {
+          "task_id": "task_0016",
+          "gt_wit_id": "witb_30b90bb1",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "Group of people at an airport A large group of individuals, some carrying bags and flags, walks across a tarmac toward a parked airplane with a distant mountain range in the background.",
+          "elapsed_ms": 1098.4
+        },
+        {
+          "task_id": "task_0017",
+          "gt_wit_id": "witb_c25c9852",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Fish A black-and-white striped fish with spotted fins swims in an aquarium with blurred green aquatic plants and white gravel in the background.",
+          "elapsed_ms": 856.1
+        },
+        {
+          "task_id": "task_0018",
+          "gt_wit_id": "witb_73979cac",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Piano keyboard diagram A simplified piano keyboard diagram showing labeled white and black keys including R1, G1, M2, P, D2, and S.",
+          "elapsed_ms": 997.4
+        },
+        {
+          "task_id": "task_0019",
+          "gt_wit_id": "witb_336b6603",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "A Plan of Milford Haven An antique map depicting the coastal area of Milford Haven, including rivers, landforms, and labeled locations such as \"The River of Milford Haven\" and \"The River of the Haven.\"",
+          "elapsed_ms": 1273.4
+        },
+        {
+          "task_id": "task_0020",
+          "gt_wit_id": "witb_ffcd4fd1",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Ancient stone monument A weathered stone monument with carved reliefs stands in a grassy garden surrounded by trees and other stone structures under a clear sky.",
+          "elapsed_ms": 1052.2
+        },
+        {
+          "task_id": "task_0021",
+          "gt_wit_id": "witb_73e04484",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Coat of Arms A shield divided vertically into blue and green sections, featuring a white tower with a black arched doorway, flanked by yellow leaves, and topped with a yellow banner with three vertical bars.",
+          "elapsed_ms": 1186.7
+        },
+        {
+          "task_id": "task_0022",
+          "gt_wit_id": "witb_e6df6f61",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Modern building with black facade and stone walls A contemporary building with a black vertical panel displaying a crest and the word \"MORRIS\" under a glass-enclosed upper level, situated on a street with a sidewalk and streetlight under a clear blue sky.",
+          "elapsed_ms": 1474.1
+        },
+        {
+          "task_id": "task_0023",
+          "gt_wit_id": "witb_6424c11a",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Flag of the Republic of the Philippines A blue field featuring a golden sun with eight rays above a golden crescent moon.",
+          "elapsed_ms": 898.1
+        },
+        {
+          "task_id": "task_0024",
+          "gt_wit_id": "witb_49955021",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Industrial complex with mining infrastructure A brick building with a large overhead crane and adjacent industrial structures under an overcast sky, featuring a tall white chimney and red railcars in the foreground.",
+          "elapsed_ms": 1127.7
+        },
+        {
+          "task_id": "task_0025",
+          "gt_wit_id": "witb_033f8c79",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "White dome-shaped building A weathered white dome-shaped building with a red-painted roof stands in a grassy area, surrounded by traditional Chinese-style pagoda buildings under a clear blue sky.",
+          "elapsed_ms": 1210.9
+        },
+        {
+          "task_id": "task_0026",
+          "gt_wit_id": "witb_2120e5c7",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Shea Butter Container An open metal tin of shea butter with a spoon resting on the lid, displaying the label \"100% PURE SHEA BUTTER\" and \"BEURRE DE SHEA\" on a wooden surface.",
+          "elapsed_ms": 1316.8
+        },
+        {
+          "task_id": "task_0027",
+          "gt_wit_id": "witb_a3590ceb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Large gathering in a mosque A dense crowd of men in dark clothing is seated in rows inside a mosque, facing a raised platform at the front where a speaker stands.",
+          "elapsed_ms": 1001.5
+        },
+        {
+          "task_id": "task_0028",
+          "gt_wit_id": "witb_2149f89e",
+          "rank": 3,
+          "hit_at_20": true,
+          "query_used": "White Buddha Statue A large white statue of a standing Buddha is positioned outdoors near a traditional East Asian temple building with a dark roof, surrounded by green trees and mountains under an overcast sky.",
+          "elapsed_ms": 1123.8
+        },
+        {
+          "task_id": "task_0029",
+          "gt_wit_id": "witb_914d8674",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Marble tomb effigy A reclining marble effigy of a deceased person, possibly a woman, lies within an ornate, dark stone sarcophagus with gold-trimmed interior and decorative carvings.",
+          "elapsed_ms": 1234.0
+        },
+        {
+          "task_id": "task_0030",
+          "gt_wit_id": "witb_614b8d4d",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "South Monument A tall, reddish-brown stone monument with the word \"SOUTH\" inscribed at the top and a list of names on its face, standing in a dry, open field under a clear blue sky.",
+          "elapsed_ms": 1413.9
+        },
+        {
+          "task_id": "task_0031",
+          "gt_wit_id": "witb_c03f9091",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "GDP Growth % A bar chart displaying GDP growth percentages from fiscal year 2012 to fiscal year 2018, with values ranging from approximately 3% to over 5%.",
+          "elapsed_ms": 1167.9
+        },
+        {
+          "task_id": "task_0032",
+          "gt_wit_id": "witb_9a08844a",
+          "rank": 4,
+          "hit_at_20": true,
+          "query_used": "Kōchi Station A modern train station with a distinctive glass and metal canopy, surrounded by paved plaza, greenery, and urban buildings under a clear blue sky.",
+          "elapsed_ms": 1005.1
+        },
+        {
+          "task_id": "task_0033",
+          "gt_wit_id": "witb_42c076f6",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Berlin Olympic Stadium Aerial view of the Berlin Olympic Stadium surrounded by green fields, trees with autumn foliage, and urban buildings in a cityscape.",
+          "elapsed_ms": 963.9
+        },
+        {
+          "task_id": "task_0034",
+          "gt_wit_id": "witb_3306069f",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Cherry blossom tree A large, fully bloomed cherry blossom tree with dense pink flowers stands in a park-like setting under a clear blue sky, surrounded by green grass, a low fence, and bare trees in the background.",
+          "elapsed_ms": 1281.2
+        },
+        {
+          "task_id": "task_0035",
+          "gt_wit_id": "witb_57406112",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "A man in formal attire A man with short dark hair and a goatee, wearing a dark suit, white collared shirt, and a red tie with white polka dots, is seated indoors against a backdrop of beige curtains and a potted plant.",
+          "elapsed_ms": 1484.2
+        },
+        {
+          "task_id": "task_0036",
+          "gt_wit_id": "witb_323d2364",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Man holding cricket bat A man in cricket attire, including a cap and long trousers, is bent over holding a cricket bat outdoors, with a white picket fence and a house visible in the background.",
+          "elapsed_ms": 1164.8
+        },
+        {
+          "task_id": "task_0037",
+          "gt_wit_id": "witb_62f8b02f",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Group of four men in historical attire A black-and-white photograph shows four men, including one seated in the foreground wearing a turban and light-colored suit, with three standing behind him in formal or military-style clothing, set outdoors near a vehicle.",
+          "elapsed_ms": 1377.8
+        },
+        {
+          "task_id": "task_0038",
+          "gt_wit_id": "witb_ab8d06cb",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Geographic map of Maryland highlighting a specific county The image displays a map of Maryland with one county highlighted in red and another county outlined in white with a red dot indicating a specific location.",
+          "elapsed_ms": 1068.2
+        },
+        {
+          "task_id": "task_0039",
+          "gt_wit_id": "witb_626b81bc",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Art gallery exhibition A dimly lit gallery space features multiple framed paintings on dark walls, with a single black bench positioned in the center foreground.",
+          "elapsed_ms": 1002.6
+        },
+        {
+          "task_id": "task_0040",
+          "gt_wit_id": "witb_37d452c1",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Highway scene A two-lane asphalt road with a yellow center line, flanked by trees and a concrete barrier on the left, under a clear blue sky.",
+          "elapsed_ms": 986.9
+        },
+        {
+          "task_id": "task_0041",
+          "gt_wit_id": "witb_f59bd541",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Modern office building entrance A multi-story building with a grid of windows and a covered walkway leading to an entrance, flanked by two bare trees on a paved courtyard.",
+          "elapsed_ms": 1069.9
+        },
+        {
+          "task_id": "task_0042",
+          "gt_wit_id": "witb_1711ba74",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Two men posing for a photograph Two men are standing together indoors, one wearing a red turtleneck and black jacket, the other in a light green shirt with a lanyard bearing an Apple logo badge.",
+          "elapsed_ms": 1367.0
+        },
+        {
+          "task_id": "task_0043",
+          "gt_wit_id": "witb_5d658862",
+          "rank": 2,
+          "hit_at_20": true,
+          "query_used": "Church building A brick church with a green roof and tall evergreen trees in front, under a clear blue sky, with a parked SUV and a yellow sign in the foreground.",
+          "elapsed_ms": 1060.9
+        },
+        {
+          "task_id": "task_0044",
+          "gt_wit_id": "witb_a314266a",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Woman A black-and-white portrait of a woman with long straight hair, smiling, wearing a textured knit sweater, against a plain background.",
+          "elapsed_ms": 886.9
+        },
+        {
+          "task_id": "task_0045",
+          "gt_wit_id": "witb_0f44c3a0",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Man in suit and sunglasses A man wearing a dark suit, white shirt, dark tie, and sunglasses with a pocket square is shown in a black-and-white photograph, with blurred figures in the background.",
+          "elapsed_ms": 1177.5
+        },
+        {
+          "task_id": "task_0046",
+          "gt_wit_id": "witb_1f41262d",
+          "rank": 14,
+          "hit_at_20": true,
+          "query_used": "St. Mary's Church A red-brick church building with arched windows and a central entrance, situated in an open area with surrounding structures and bare trees under a bright sky.",
+          "elapsed_ms": 1143.9
+        },
+        {
+          "task_id": "task_0047",
+          "gt_wit_id": "witb_32771349",
+          "rank": 4,
+          "hit_at_20": true,
+          "query_used": "Airport terminal building A modern airport terminal building with \"AIRPORT\" signage on its roof, surrounded by parked cars and a landscaped foreground under a clear blue sky.",
+          "elapsed_ms": 1103.8
+        },
+        {
+          "task_id": "task_0048",
+          "gt_wit_id": "witb_d18764bc",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "Historic house with porch and sign A two-story white house with a covered porch and a historical marker sign on the lawn, surrounded by trees and a sidewalk.",
+          "elapsed_ms": 1020.7
+        },
+        {
+          "task_id": "task_0049",
+          "gt_wit_id": "witb_2eb59a33",
+          "rank": 1,
+          "hit_at_20": true,
+          "query_used": "A man in a robe A barefoot man in a blue robe and brown cloak stands on rocky terrain, adjusting his head covering with both hands.",
+          "elapsed_ms": 973.3
+        }
+      ]
+    }
+  }
+}

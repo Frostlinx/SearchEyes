@@ -1,0 +1,1685 @@
+{
+  "statistics": {
+    "total_tasks": 100,
+    "verifiable": 100,
+    "solvable": 100,
+    "success": 100,
+    "steps_in_range": 100,
+    "skill_match": 100,
+    "pass_rate": 1.0,
+    "avg_steps": 3.85
+  },
+  "results": [
+    {
+      "task_id": "vt_proposed_8bd62a0d",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_c3fb21bd",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_0cdae97b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_aec8dd62",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2574a02d",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_e479b543",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_e0123d8b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_7914081d",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_164065e5",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_567764cf",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_9a5c7966",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_be3a9f04",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_9429cad3",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_7c7bc87a",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_f12fe4c6",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_de3985d0",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_3eebb49b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_03a10c8b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_c36b3d6c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "compare": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_178830f7",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_c13f08e8",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_3c0e6d4c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_d424d8da",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_79693a5e",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "compare": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_3f156512",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_d323be6b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_3cf0e08e",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_f58f06fd",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_71509d0e",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_23226a92",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_106045f4",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_05acfb7d",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_bc3a7ab3",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        7
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "aggregate": 1,
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2044abb4",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_a5ea07e4",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "compare": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_8c48db12",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_8c35d1ef",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "compare": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_8857206e",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_7d37c8af",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_f03edf97",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "compare": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_837c3e5c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_273c03f4",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_69bd0f9c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        7
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "aggregate": 1,
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_a11330f6",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        7
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "aggregate": 1,
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_d3d023e5",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_114fae0c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        7
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "aggregate": 1,
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_9f584cad",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2e789044",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_493bd9c6",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_a68563fd",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_440c65b8",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 5,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_a5ec1f0b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 10,
+      "expected_steps": [
+        8,
+        12
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_9682930f",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_e17315d8",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_d8e7655c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_1f8935c3",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_fb4a5c43",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_9dc06b89",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_16de5f73",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_55723ac1",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_a3cedb4c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_87eff965",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_f7477e0c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_62165ce3",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_fe2c6f18",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2001b965",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_3ef88212",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        7
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "aggregate": 1,
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_19fe1c1b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_20083957",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_6884406b",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_b80197ef",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 10,
+      "expected_steps": [
+        8,
+        12
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_7fa5be41",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 5,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_0cacfc58",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_004b0f16",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_3c4286cc",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_8baf683a",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_9ee4a143",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_a3bc84cd",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        7
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "aggregate": 1,
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_94b8a7f6",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2ec554ee",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_d194d269",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_726a3680",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "zoom": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_dc38b497",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "sort": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_18113b10",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 7,
+      "expected_steps": [
+        6,
+        8
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_38cedeab",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_f8f4ed4c",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_4ce57615",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_700bb8c6",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 2,
+      "expected_steps": [
+        2,
+        2
+      ],
+      "skill_coverage": {
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_fc5f531d",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "compare": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_02c66018",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 10,
+      "expected_steps": [
+        8,
+        12
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_53d044d1",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2ae8e689",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_ae6ab396",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 5,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_388bf4fe",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_09b5932f",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 4,
+      "expected_steps": [
+        4,
+        5
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "aggregate": 1,
+        "click_product": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2f5cb7a2",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_2a839f3e",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 10,
+      "expected_steps": [
+        8,
+        12
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_1ce0d93a",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 3,
+      "expected_steps": [
+        3,
+        3
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "click_product": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_58c1f89f",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 10,
+      "expected_steps": [
+        8,
+        12
+      ],
+      "skill_coverage": {
+        "search": 1,
+        "filter": 1,
+        "sort": 1,
+        "compare": 1,
+        "zoom": 1,
+        "click_product": 2,
+        "back": 1,
+        "memory": 1,
+        "buy": 1
+      },
+      "error": ""
+    },
+    {
+      "task_id": "vt_proposed_f407e31f",
+      "verifiable": true,
+      "solvable": true,
+      "steps_taken": 1,
+      "expected_steps": [
+        1,
+        1
+      ],
+      "skill_coverage": {
+        "search": 1
+      },
+      "error": ""
+    }
+  ]
+}

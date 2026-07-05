@@ -1,0 +1,14 @@
+tools:
+  - class_name: kb_search_tool.KBSearchTool
+    config:
+      type: native
+      kb_path: /tmp/pgkc_full_kb.json
+      topk: 5
+  - class_name: kb_search_tool.KBReadTool
+    config:
+      type: native
+      kb_path: /tmp/pgkc_full_kb.json
+  - class_name: kb_search_tool.KBCropAndSearchTool
+    config:
+      type: native
+      kb_path: /tmp/pgkc_full_kb.json
