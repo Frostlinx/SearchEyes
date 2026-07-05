@@ -80,9 +80,6 @@ Starting from a typed knowledge graph (Wikidata5M ∩ Wiki6M ∩ Wikipedia image
 
 ### Agentic Post-Training: SFT + HaPO
 
-<p align="center">
-  <img src="assets/train.png" width="95%" alt="Training Pipeline"/>
-</p>
 
 **Stage 1 — SFT with Privileged Generation**
 
