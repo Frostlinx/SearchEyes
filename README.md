@@ -7,7 +7,7 @@
 <h3 align="center">Towards Frontier Multimodal Deep Search Intelligence<br/>via Search World Simulation</h3>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv"/></a>
+  <a href="https://arxiv.org/abs/2607.05943"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b.svg" alt="arXiv"/></a>
   <a href="#vissearch-bench"><img src="https://img.shields.io/badge/📊_Benchmark-VisSearch-blue.svg" alt="Benchmark"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache_2.0-green.svg" alt="License"/></a>
 </p>
@@ -213,7 +213,7 @@ SearchEyes/
 @article{jiao2026searcheyes,
   title={SearchEyes: Towards Frontier Multimodal Deep Search Intelligence via Search World Simulation},
   author={Jiao, Zhengbo and Cheng, Yiming and Jiang, Yilei and Feng, Kaituo and Huang, Rui and Jiang, Tianyi and Tian, Juanxi and Wang, Qunzhong and Chen, Tailai and Wei, Qianshan and Xiao, Chuan and Rong, Shanyu and Li, Yangfu and Zhou, Yanhan and Zhang, Yifan and Yue, Xiangyu},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2607.05943},
   year={2026}
 }
 ```
